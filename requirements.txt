@@ -13,8 +13,7 @@ cycler==0.11.0
 debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
-git+https://github.com/cwf2/dices-client
-dicesapi==0.0.0
+dices-client @ git+https://github.com/cwf2/dices-client@53558bc6e44f4ac183b875f5fe8e6f34984757a6
 entrypoints==0.4
 et-xmlfile==1.1.0
 fastjsonschema==2.16.1
