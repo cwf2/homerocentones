@@ -5,4 +5,5 @@ matplotlib
 MyCapytain
 openpyxl
 pandas
+seaborn
 git+https://github.com/Capitains/Nautilus.git
